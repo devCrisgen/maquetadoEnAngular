@@ -1,0 +1,32 @@
+nav{
+    height: 80px;
+}
+.menu-container{
+    width: 20%;
+    height: inherit;
+}
+.menu-container ul li{
+    margin-right: 10px;
+}
+i{
+    color: #fff;
+    font-size: 1.5rem;
+   
+}
+
+.fa-square-facebook:hover{
+    color: #1877f2;
+    font-size: 2rem;
+}
+.fa-linkedin:hover{
+    color: #016EAE;
+    font-size: 2rem;
+}
+.fa-instagram:hover{
+    color: #cb389e;
+    font-size: 2rem;
+}
+.fa-user-lock:hover{
+    color: #00a3f6;
+    font-size: 2rem;
+}

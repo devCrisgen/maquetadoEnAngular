@@ -1,0 +1,26 @@
+.banner{
+    margin-top: 100px;
+    background-image: url('../../../assets/img/banner.jpg');
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+    
+    }
+    .perfil-banner{
+        width: 10%;
+        position: absolute;
+        left: 12%;
+        bottom: -10%;
+    }
+    @media (max-width: 600px) {
+        .banner{
+          margin-top: 90px;
+          height: 40vh;
+        }
+        .perfil-banner{
+            width: 30%;
+            position: absolute;
+            left: 40%;
+        }
+      }
